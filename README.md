@@ -1,6 +1,6 @@
 # telegram-stars-payment
 
-Ushbu repository Telegram botining soddalashtirilgan implementatsiyasini o'z ichiga oladi. Bot foydalanuvchilarga Telegram orqali to'lovlarni amalga oshirish imkoniyatini beradi.
+Ushbu repository Telegram botining soddalashtirilgan implementatsiyasini o'z ichiga oladi. Bot foydalanuvchilarga Telegram stars orqali to'lovlarni amalga oshirish imkoniyatini beradi.
 
 ## Xususiyatlar
 
